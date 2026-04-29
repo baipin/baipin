@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 👯 ENFJ-A!
 - 💬 Ask me if you want:root@baipin.pw📫
 - 📫 Go to my blog <a href="https://baipin.pw">https://baipin.pw</a> for more details.
-- ⚡ Fun fact: Like playing Cities:skylines()
+- ⚡ Fun fact: Like playing Cities:skylines! You can find my Mods on [Paradox Mods](https://mods.paradoxplaza.com/authors/baipin/cities_skylines_2?games=cities_skylines_2&orderBy=desc&sortBy=best&time=quarter)
 
 ![Metrics](/github-metrics.svg)
