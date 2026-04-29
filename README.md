@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me if you want:root@baipin.pw📫
 - 📫 Go to my blog <a href="https://baipin.pw">https://baipin.pw</a> for more details.
 - ⚡ Fun fact: Like playing Cities:skylines()
+
+![Metrics](/github-metrics.svg)
